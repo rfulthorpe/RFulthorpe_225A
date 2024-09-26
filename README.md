@@ -1,4 +1,4 @@
-# RFulthorpe_225A
+# Rebecca Fulthorpe
  
  This my repo for BMS 225A - Data Science. My work is organized as follows: 
 
